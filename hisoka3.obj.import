@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dybyb2f7ep54y"
+path="res://.godot/imported/hisoka3.obj-5f3ae3c8beb3c0f0d7f1b5102a91d7fd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hisoka3.obj-5f3ae3c8beb3c0f0d7f1b5102a91d7fd.mesh"]
+
+source_file="res://game1/hisoka3.obj"
+dest_files=["res://.godot/imported/hisoka3.obj-5f3ae3c8beb3c0f0d7f1b5102a91d7fd.mesh", "res://.godot/imported/hisoka3.obj-5f3ae3c8beb3c0f0d7f1b5102a91d7fd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
